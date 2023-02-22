@@ -35,6 +35,9 @@ Actively looking for a job (internship) in the field of backend in python (mostl
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-59666C?logo=beautifulsoup&logoColor=white)
  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/docker_compose-%232496ED.svg?style=flat&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/docker_hub-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+
 
 
 
