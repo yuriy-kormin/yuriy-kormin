@@ -38,3 +38,8 @@ Actively looking for a job (internship) in the field of backend in python (mostl
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=plastic&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker_compose-%232496ED.svg?style=plastic&logo=docker&logoColor=white)
 ![Docker Hub](https://img.shields.io/badge/docker_hub-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+
+## STATS
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriy-kormin&theme=transparent&layout=compact&hide_border=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriy-kormin&show_icons=true&hide_title=true&layout=compact&theme=transparent&hide_border=true&)
