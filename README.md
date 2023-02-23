@@ -1,7 +1,7 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=yuriy-kormin.yuriy.kormin)
 
 &#9996; Hello! My name is Yuriy. I'm python developer with IoT xp
-Im living in Batumi, Georgia
+<br>I'm living in Batumi, Georgia :georgia:
 <p>
 Since <a href="https://ru.hexlet.io/u/tork">successfully completed</a> Python developer course at <a href = https://en.hexlet.io/u/tork>Hexlet</a> <p>
 
