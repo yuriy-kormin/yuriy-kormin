@@ -54,4 +54,13 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriy-kormin&show_icons=true&hide_title=true&layout=compact&theme=transparent&hide_border=true&)
 
 <!--START_SECTION:waka-->
+
+```text
+YAML             3 mins          █████████████████▒░░░░░░░   68.80 %
+Markdown         0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
+GitIgnore file   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
+Jinja2           0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+```
+
 <!--END_SECTION:waka-->
