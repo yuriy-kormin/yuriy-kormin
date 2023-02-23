@@ -57,11 +57,11 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```text
-YAML             3 mins          █████████████████▒░░░░░░░   68.80 %
-Markdown         0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.33 %
-GitIgnore file   0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.90 %
-Jinja2           0 secs          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Markdown         23 mins         █████████████████████▓░░░   86.55 %
+YAML             3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
+Jinja2           0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.78 %
+INI              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
