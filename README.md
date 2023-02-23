@@ -53,7 +53,7 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriy-kormin&theme=transparent&layout=compact&hide_border=true)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriy-kormin&show_icons=true&hide_title=true&layout=compact&theme=transparent&hide_border=true&)
 
-### Last week stat by wakitime
+### Last week stat by [Wakatime](https://wakatime.com/)
 <!--START_SECTION:waka-->
 
 ```text
