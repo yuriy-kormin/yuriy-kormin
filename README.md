@@ -1,13 +1,13 @@
 ![](https://visitor-badge.glitch.me/badge?page_id=yuriy-kormin.yuriy.kormin)
 
 &#9996; Hello! My name is Yuriy. I'm python developer with IoT xp
-<br>I'm living in Batumi, Georgia :georgia:
+<p>I'm living in Batumi, Georgia :georgia:
 <p>
 Since <a href="https://ru.hexlet.io/u/tork">successfully completed</a> Python developer course at <a href = https://en.hexlet.io/u/tork>Hexlet</a> <p>
 
 Tried myself in arduino / raspberry pi (IoT) for homemade.
   
-Of the achievements - a home-made solid fuel boiler control system using several stepper motors and a relay to turn off / turn off ventilation. 
+Of the achievements - a home-made solid fuel boiler control system using several stepper motors and a relay to turn on / off ventilation system. 
 This made in python with multithreading elements. The Zabbix monitoring system was connected to this whole thing.
   
 More details can be found in my profile at <a href = "https://www.upwork.com/freelancers/~013e3d9819e16cfade?s=1110580753891577856">upwork</a>(need to register)<p>
