@@ -57,12 +57,12 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```text
-HTML                       4 hrs 53 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.38 %
-Python                     3 hrs 40 mins   █████░░░░░░░░░░░░░░░░░░░░   19.84 %
-Bash                       1 hr 43 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.29 %
-YAML                       1 hr 40 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-JavaScript                 1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.23 %
-Docker                     1 hr 12 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+HTML                       10 hrs 33 mins  ██████████░░░░░░░░░░░░░░░   39.68 %
+Python                     4 hrs 23 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.48 %
+YAML                       2 hrs 8 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 %
+Bash                       1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.07 %
+JavaScript                 1 hr 33 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Docker                     1 hr 12 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.51 %
 ```
 
 <!--END_SECTION:waka-->
