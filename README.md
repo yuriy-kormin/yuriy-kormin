@@ -57,12 +57,10 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```text
-Python             10 hrs 6 mins   ████████████░░░░░░░░░░░░░   47.74 %
-HTML               6 hrs 38 mins   ████████░░░░░░░░░░░░░░░░░   31.39 %
-JavaScript         1 hr 36 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 %
-Text               49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-SQL                26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
-Makefile           24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Python                     10 hrs 53 mins  ███████████▓░░░░░░░░░░░░░   46.48 %
+HTML                       6 hrs 39 mins   ███████░░░░░░░░░░░░░░░░░░   28.43 %
+JavaScript                 1 hr 36 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.84 %
+Other                      1 hr 22 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 %
 ```
 
 <!--END_SECTION:waka-->
