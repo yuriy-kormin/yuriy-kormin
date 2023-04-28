@@ -57,7 +57,8 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```text
-Other                      18 hrs 22 mins  ████████████░░░░░░░░░░░░░   47.90 %
+Python                     15 hrs 39 mins  ███████████▓░░░░░░░░░░░░░   46.78 %
+Other                      11 hrs 51 mins  █████████░░░░░░░░░░░░░░░░   35.40 %
 ```
 
 <!--END_SECTION:waka-->
