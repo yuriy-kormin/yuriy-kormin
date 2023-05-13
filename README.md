@@ -44,7 +44,7 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=plastic&logoColor=white)
 ![Requests](https://img.shields.io/badge/-Requests-0087EA?logo=requests&style=plastic&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-59666C?logo=beautifulsoup&style=plastic&logoColor=white)
-![Scrapy](https://img.shields.io/badge/-Scrapy-000000?style=for-the-badge&logo=scrapy&logoColor=white)
+![Scrapy](https://img.shields.io/badge/-Scrapy-000000?style=plastic&logo=scrapy&logoColor=white)
  
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&style=plastic&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/docker_compose-%232496ED.svg?style=plastic&logo=docker&logoColor=white)
