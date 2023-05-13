@@ -1,5 +1,5 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuriy-kormin.yuriy.kormin) -->
-![](https://img.shields.io/github/watchers/yuriy-kormin/yuriy-kormin?label=visitors&style=plastic)
+![Visitor Count](https://profile-counter.glitch.me/yuriy-kormin/count.svg)
 
 &#9996; Hello! My name is Yuriy. I'm python developer with IoT xp
 <p>Preffer to live in Batumi, Georgia :georgia: seacost
