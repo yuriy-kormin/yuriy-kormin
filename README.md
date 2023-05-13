@@ -1,5 +1,5 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuriy-kormin.yuriy.kormin) -->
-![Visitor Count](https://profile-counter.glitch.me/yuriy-kormin/count.svg?label=visitors&style=plastic)
+## VISITORS ![Visitor Count](https://profile-counter.glitch.me/yuriy-kormin/count.svg?label=visitors&style=plastic)
 
 &#9996; Hello! My name is Yuriy. I'm python developer with IoT xp
 <p>Preffer to live in Batumi, Georgia :georgia: seacost
@@ -23,7 +23,7 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&?style=plastic&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23FFFFFF.svg?style=plastic&logo=flask&logoColor=black)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&style=plastic&logoColor=white)
-![Regex](https://img.shields.io/badge/regex-%231DA1F2.svg?style=plastic&logo=regex&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
 
 ![PyCharm](https://img.shields.io/badge/pycharm-%23000.svg?style=plastic&logo=pycharm&color=brightgreen)
 ![Poetry](https://img.shields.io/badge/poetry-%231A1A1A.svg?style=plastic&logo=python&logoColor=white)
