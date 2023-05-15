@@ -59,11 +59,11 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```text
-Other                      19 hrs 30 mins  ████████████████░░░░░░░░░   64.60 %
-Python                     6 hrs 56 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.95 %
-HTML                       1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 %
-.env file                  50 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-YAML                       31 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Other                      18 hrs          ███████████████▒░░░░░░░░░   61.95 %
+Python                     8 hrs 39 mins   ███████▒░░░░░░░░░░░░░░░░░   29.80 %
+.env file                  42 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+HTML                       30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+YAML                       28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 %
 ```
 
 <!--END_SECTION:waka-->
