@@ -58,7 +58,7 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 ### Last week stat by [Wakatime](https://wakatime.com/)
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Other                      15 hrs 9 mins   ████████████████░░░░░░░░░   63.50 %
 Python                     2 hrs 36 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 Bash                       1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.35 %
