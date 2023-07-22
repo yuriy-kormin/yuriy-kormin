@@ -25,11 +25,18 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&style=plastic&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
 
+![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-red?logo=jest&logoColor=white)
+![urql](https://img.shields.io/badge/-urql-blueviolet?logo=graphql&logoColor=white)
+![jwt](https://img.shields.io/badge/-jwt-green?logo=json-web-tokens&logoColor=white)
+
+
 ![PyCharm](https://img.shields.io/badge/pycharm-%23000.svg?style=plastic&logo=pycharm&color=brightgreen)
+![WebStorm](https://img.shields.io/badge/-WebStorm-blue?logo=webstorm&logoColor=white)
 ![Poetry](https://img.shields.io/badge/poetry-%231A1A1A.svg?style=plastic&logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=plastic&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&style=plastic&logoColor=white)
-![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=plastic&logo=vagrant&logoColor=white)
  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&style=plastic&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/-PostGIS-4169E1?logo=postgis&style=plastic&logoColor=white)
