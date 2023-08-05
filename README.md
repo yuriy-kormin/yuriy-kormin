@@ -25,11 +25,11 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&style=plastic&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
 
-![React](https://img.shields.io/badge/-React-blue?logo=react&logoColor=white)
-![Redux](https://img.shields.io/badge/-Redux-purple?logo=redux&logoColor=white)
-![Jest](https://img.shields.io/badge/-Jest-red?logo=jest&logoColor=white)
-![urql](https://img.shields.io/badge/-urql-blueviolet?logo=graphql&logoColor=white)
-![jwt](https://img.shields.io/badge/-jwt-green?logo=json-web-tokens&logoColor=white)
+![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux-purple?style=plastic&logo=redux&logoColor=white)
+![Jest](https://img.shields.io/badge/-Jest-red?style=plastic&logo=jest&logoColor=white)
+![urql](https://img.shields.io/badge/-urql-blueviolet?style=plastic&logo=graphql&logoColor=white)
+![jwt](https://img.shields.io/badge/-jwt-green?style=plastic&logo=json-web-tokens&logoColor=white)
 
 
 ![PyCharm](https://img.shields.io/badge/pycharm-%23000.svg?style=plastic&logo=pycharm&color=brightgreen)
