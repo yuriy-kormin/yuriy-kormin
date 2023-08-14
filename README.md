@@ -1,8 +1,13 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuriy-kormin.yuriy.kormin) -->
 ## VISITORS ![Visitor Count](https://profile-counter.glitch.me/yuriy-kormin/count.svg?label=visitors&style=plastic)
 
-&#9996; Hello! My name is Yuriy. I'm python developer with IoT xp
-<p>Preffer to live in Batumi, Georgia :georgia: seacost
+&#9996; Hello! My name is Yuriy. I enjoy working with a variety of technologies
+and frameworks to build creative and functional web applications. Currently,
+I'm diving deep into the world of full-stack development, particularly focusing
+on the Django framework and modern front-end libraries like React/Redux along with 
+Bootstrap for UI design.
+
+<p>Living in Batumi, Georgia :georgia: seacost
 <p>
 Since <a href="https://ru.hexlet.io/u/tork">successfully completed</a> Python developer course at <a href = https://en.hexlet.io/u/tork>Hexlet</a> <p>
 
@@ -14,7 +19,7 @@ This made in python with multithreading elements. The Zabbix monitoring system w
 More details can be found in my profile at <a href = "https://www.upwork.com/freelancers/~013e3d9819e16cfade?s=1110580753891577856">upwork</a>(need to register)<p>
 <br>
   
-🔭 Actively looking for a job (internship) in the field of backend in python (mostly remote plan)
+🔭 Actively looking for a job opportunities
 
   
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
