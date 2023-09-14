@@ -71,11 +71,11 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```txt
-Other              6 hrs 27 mins   ████████████░░░░░░░░░░░░░   48.03 %
-Python             5 hrs 21 mins   ██████████░░░░░░░░░░░░░░░   39.88 %
-JavaScript         1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 %
-Markdown           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-TOML               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
+Other              7 hrs 53 mins   █████████████▒░░░░░░░░░░░   53.02 %
+Python             5 hrs 21 mins   █████████░░░░░░░░░░░░░░░░   36.04 %
+JavaScript         1 hr 9 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 %
+Markdown           13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 %
+TOML               8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
 ```
 
 <!--END_SECTION:waka-->
