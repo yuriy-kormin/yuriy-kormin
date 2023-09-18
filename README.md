@@ -9,7 +9,7 @@ Bootstrap for UI design.
 
 <p>Living in Batumi, Georgia :georgia: seacost
 <p>
-Since <a href="https://ru.hexlet.io/u/tork">successfully completed</a> Python developer course at <a href = https://en.hexlet.io/u/tork>Hexlet</a> <p>
+Since <a href="https://ru.hexlet.io/u/tork">successfully completed</a> Python developer course at <a href = https://ru.hexlet.io/u/tork>Hexlet</a> <p>
 
 Tried myself in arduino / raspberry pi (IoT) for homemade.
   
