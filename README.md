@@ -74,6 +74,8 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```txt
+Total Time: 38 hrs 58 mins
+
 Other               23 hrs 45 mins  ███████████████▒░░░░░░░░░   60.96 %
 Python              10 hrs 46 mins  ███████░░░░░░░░░░░░░░░░░░   27.65 %
 Markdown            46 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 %
