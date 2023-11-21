@@ -76,7 +76,11 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 ```txt
 Total Time: 20 hrs 18 mins
 
-No activity tracked
+Python           17 hrs 34 mins  █████████████████████▓░░░   86.54 %
+Bash             39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.25 %
+textmate         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+Other            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Makefile         20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
 ```
 
 <!--END_SECTION:waka-->
