@@ -74,13 +74,13 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 28 hrs 28 mins
+Total Time: 30 hrs 9 mins
 
-Python           26 hrs 24 mins  ███████████████████████▒░   92.74 %
-Other            25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-JSON             22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-TOML             17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-Docker           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
+Python           28 hrs 52 mins  ████████████████████████░   95.74 %
+JSON             22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Docker           12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Text             11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+textmate         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 %
 ```
 
 <!--END_SECTION:waka-->
