@@ -74,13 +74,13 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 43 hrs 41 mins
+Total Time: 41 hrs 45 mins
 
-Other               35 hrs 40 mins  ████████████████████▒░░░░   81.65 %
-Python              4 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-Makefile            37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
-Docker              33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
-HTML                27 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Other               35 hrs 29 mins  █████████████████████▒░░░   85.00 %
+Python              4 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.60 %
+Makefile            25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
+.env file           18 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Bash                16 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 %
 ```
 
 <!--END_SECTION:waka-->
