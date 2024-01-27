@@ -74,13 +74,13 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 40 hrs 2 mins
+Total Time: 42 hrs 13 mins
 
-Python       20 hrs 54 mins  █████████████░░░░░░░░░░░░   52.20 %
-Other        18 hrs 24 mins  ███████████▒░░░░░░░░░░░░░   45.98 %
-.env file    12 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-JSON         11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
-Bash         10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python           21 hrs 23 mins  ████████████▓░░░░░░░░░░░░   50.66 %
+Other            19 hrs 51 mins  ███████████▓░░░░░░░░░░░░░   47.05 %
+.env file        13 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Bash             11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
+JSON             11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
