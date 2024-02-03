@@ -74,13 +74,13 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 hrs 30 mins
+Total Time: 33 hrs 56 mins
 
-Other            18 hrs 17 mins  █████████████▒░░░░░░░░░░░   53.00 %
-Python           15 hrs 56 mins  ███████████▓░░░░░░░░░░░░░   46.20 %
-GitIgnore file   7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-.env file        2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Other            17 hrs 11 mins  ████████████▓░░░░░░░░░░░░   50.63 %
+Python           16 hrs 43 mins  ████████████▒░░░░░░░░░░░░   49.26 %
+Figma Design     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+.env file        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
