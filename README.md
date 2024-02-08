@@ -74,10 +74,10 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 13 hrs 56 mins
+Total Time: 8 hrs 42 mins
 
-Python         8 hrs 50 mins   ████████████████░░░░░░░░░   63.44 %
-Other          5 hrs 5 mins    █████████░░░░░░░░░░░░░░░░   36.54 %
+Python         6 hrs 20 mins   ██████████████████▒░░░░░░   72.68 %
+Other          2 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.30 %
 Figma Design   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 Text           0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 .env file      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
