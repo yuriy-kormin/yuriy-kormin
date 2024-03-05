@@ -74,9 +74,9 @@ More details can be found in my profile at <a href = "https://www.upwork.com/fre
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 52 mins
+Total Time: 16 hrs 36 mins
 
-Other   9 hrs 52 mins   █████████████████████████   100.00 %
+Other   16 hrs 36 mins  █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
