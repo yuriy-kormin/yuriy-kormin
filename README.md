@@ -1,14 +1,13 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuriy-kormin.yuriy.kormin) -->
 ## VISITORS ![Visitor Count](https://profile-counter.glitch.me/yuriy-kormin/count.svg?label=visitors&style=plastic)
 
-Hello everyone! My name is Yuriy. 
+Hello there! 
 
-I enjoy working with a variety of technologies
-and frameworks to build creative and functional web applications. 
+I'm Yuriy, a passionate web developer with a knack for building innovative and efficient applications. 
 
-Currently,I'm diving deep into the world of full-stack development, particularly focusing
-on the Django framework and modern front-end libraries like React/Redux along with 
-Bootstrap for UI design.
+Currently, I working as a lead backend developer at a dynamic fintech startup.
+
+<a href="https://github.com/yuriy-kormin/graphene_react">Tried myself</a> in React/Redux along with Bootstrap for UI design
 
 <p>Living in Batumi, Georgia :georgia: seacost
 <p>
@@ -16,11 +15,7 @@ Since <a href="https://ru.hexlet.io/u/tork">successfully completed</a> Python de
 
 Tried myself in arduino / raspberry pi (IoT) for homemade.
   
-Of the achievements - a home-made solid fuel boiler control system using several stepper motors and a relay to turn on / off ventilation system. 
-This made in python with multithreading elements. The Zabbix monitoring system was connected to this whole thing.
-  
-More details can be found in my profile at <a href = "https://www.upwork.com/freelancers/~013e3d9819e16cfade?s=1110580753891577856">upwork</a>(need to register)<p>
-<br>
+
   
 🔭 Actively looking for a job opportunities <a href="https://github.com/yuriy-kormin/yuriy-kormin/blob/main/Resume-KorminIurii.pdf">resume</a>
 
