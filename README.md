@@ -67,6 +67,9 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 ##### Leetcode:   [![LeetCode user yuriy-kormin](https://img.shields.io/badge/dynamic/json?style=social&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fyuriy-kormin&logo=leetcode&logoColor=yellow)](https://leetcode.com/yuriy-kormin/)
 
 
+##### Hexlet: [![](https://img.shields.io/badge/Hexlet-116EF5.svg?style=for-the-badge&logo=Hexlet&logoColor=white)](https://ru.hexlet.io/u/tork)
+
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuriy-kormin&theme=transparent&layout=compact&hide_border=true)
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yuriy-kormin&show_icons=true&hide_title=true&layout=compact&theme=transparent&hide_border=true&)
 
