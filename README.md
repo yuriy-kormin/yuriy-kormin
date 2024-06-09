@@ -17,7 +17,7 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
   
 
   
-🔭 Actively looking for a job opportunities <a href="https://github.com/yuriy-kormin/yuriy-kormin/blob/main/Resume-KorminIurii.pdf">resume</a>
+🔭 Actively looking for a job opportunities <a href="https://github.com/yuriy-kormin/yuriy-kormin/blob/main/resume_Kormin_.pdf">resume</a>
 
   
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
