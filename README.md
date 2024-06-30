@@ -77,13 +77,13 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 47 mins
+Total Time: 37 hrs 17 mins
 
-Other              29 hrs 22 mins  █████████████████████▓░░░   86.91 %
-YAML               2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 %
-Python             1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.06 %
-Canva Design       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
-Markdown           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+Other              33 hrs 5 mins   ██████████████████████▒░░   88.75 %
+YAML               2 hrs 49 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+Python             1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+Markdown           5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Text               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
