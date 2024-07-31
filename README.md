@@ -77,13 +77,13 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 46 hrs 4 mins
+Total Time: 46 hrs 37 mins
 
-Other              30 hrs 23 mins  ████████████████▒░░░░░░░░   65.95 %
-Python             8 hrs 41 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.86 %
-YAML               4 hrs 37 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.03 %
-Docker             42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
-TOML               15 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+Other              30 hrs 56 mins  ████████████████▓░░░░░░░░   66.38 %
+Python             8 hrs 18 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.82 %
+YAML               5 hrs 18 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
+Text               20 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+Makefile           14 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
 ```
 
 <!--END_SECTION:waka-->
