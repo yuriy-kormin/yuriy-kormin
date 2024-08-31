@@ -77,12 +77,12 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 36 hrs 12 mins
+Total Time: 35 hrs 37 mins
 
-Other              25 hrs 29 mins  █████████████████▓░░░░░░░   70.42 %
-Python             10 hrs 16 mins  ███████░░░░░░░░░░░░░░░░░░   28.38 %
+Other              24 hrs 55 mins  █████████████████▓░░░░░░░   70.00 %
+Python             10 hrs 15 mins  ███████▒░░░░░░░░░░░░░░░░░   28.79 %
 Makefile           4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
-Bash               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Bash               4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 .env file          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
