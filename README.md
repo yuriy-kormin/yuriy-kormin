@@ -77,11 +77,9 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 23 mins
+Total Time: 5 hrs 33 mins
 
-Other    5 hrs 23 mins   █████████████████████████   99.97 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
-Docker   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Other   5 hrs 33 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
