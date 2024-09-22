@@ -77,9 +77,9 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 5 hrs 33 mins
+Total Time: 6 hrs 35 mins
 
-Other   5 hrs 33 mins   █████████████████████████   100.00 %
+Other   6 hrs 35 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
