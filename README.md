@@ -77,12 +77,12 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 hrs 48 mins
+Total Time: 34 hrs 31 mins
 
-Python             23 hrs 54 mins  █████████████████░░░░░░░░   68.66 %
-Other              10 hrs 15 mins  ███████▒░░░░░░░░░░░░░░░░░   29.44 %
-JSON               30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
-SQL                3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python             23 hrs 50 mins  █████████████████▒░░░░░░░   69.04 %
+Other              10 hrs 1 min    ███████▒░░░░░░░░░░░░░░░░░   29.04 %
+JSON               30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+SQL                3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 GitIgnore file     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
