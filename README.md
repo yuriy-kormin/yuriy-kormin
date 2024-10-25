@@ -25,8 +25,17 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=plastic&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&?style=plastic&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23FFFFFF.svg?style=plastic&logo=flask&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&style=plastic&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=plastic&logo=graphql&logoColor=white)
+
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FDEE00?logo=clickhouse&style=plastic&logoColor=000000)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&style=plastic&logoColor=white)
+![PostGIS](https://img.shields.io/badge/-PostGIS-4169E1?logo=postgis&style=plastic&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white)
+
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&style=plastic&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 
 ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=plastic&logo=redux&logoColor=white)
@@ -40,15 +49,8 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 ![Poetry](https://img.shields.io/badge/poetry-%231A1A1A.svg?style=plastic&logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=plastic&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&style=plastic&logoColor=white)
- 
-![ClickHouse](https://img.shields.io/badge/-ClickHouse-FDEE00?logo=clickhouse&style=plastic&logoColor=000000)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&style=plastic&logoColor=white)
-![PostGIS](https://img.shields.io/badge/-PostGIS-4169E1?logo=postgis&style=plastic&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&style=plastic&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&style=plastic&logoColor=white)
-![CI/CD](https://img.shields.io/badge/CI/CD-%23323330.svg?style=plastic&logo=dev.to&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23323330.svg?style=or-the-badge&logo=dev.to&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-%2300A3E0.svg?style=plastic&logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF.svg?style=plastic&logo=github-actions&logoColor=white)
 ![Code Climate](https://img.shields.io/badge/code_climate-%233776AB.svg?style=plastic&logo=code-climate&logoColor=white)
