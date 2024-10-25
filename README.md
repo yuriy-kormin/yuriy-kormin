@@ -41,10 +41,13 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=plastic&logoColor=white)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&style=plastic&logoColor=white)
  
+![ClickHouse](https://img.shields.io/badge/-ClickHouse-FDEE00?logo=clickhouse&style=plastic&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&style=plastic&logoColor=white)
 ![PostGIS](https://img.shields.io/badge/-PostGIS-4169E1?logo=postgis&style=plastic&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&style=plastic&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-FF9900?logo=amazonaws&style=plastic&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI/CD-%23323330.svg?style=plastic&logo=dev.to&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-%2300A3E0.svg?style=plastic&logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF.svg?style=plastic&logo=github-actions&logoColor=white)
