@@ -34,8 +34,9 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 ![PostGIS](https://img.shields.io/badge/-PostGIS-4169E1?logo=postgis&style=plastic&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=plastic&logo=redis&logoColor=white)
 
-![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&style=plastic&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-0080FF?logo=digitalocean&style=for-the-badge&logoColor=white&logoSize=100)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&style=for-the-badge&logoColor=white&logoSize=100)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff&style=for-the-badge)
 
 ![React](https://img.shields.io/badge/-React-blue?style=plastic&logo=react&logoColor=white)
 ![Redux](https://img.shields.io/badge/-Redux-purple?style=plastic&logo=redux&logoColor=white)
@@ -43,17 +44,19 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 ![urql](https://img.shields.io/badge/-urql-blueviolet?style=plastic&logo=graphql&logoColor=white)
 ![jwt](https://img.shields.io/badge/-jwt-green?style=plastic&logo=json-web-tokens&logoColor=white)
 
-
 ![PyCharm](https://img.shields.io/badge/pycharm-%23000.svg?style=plastic&logo=pycharm&color=brightgreen)
 ![WebStorm](https://img.shields.io/badge/-WebStorm-blue?logo=webstorm&logoColor=white)
 ![Poetry](https://img.shields.io/badge/poetry-%231A1A1A.svg?style=plastic&logo=python&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&style=plastic&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0&style=plastic)
 ![Ansible](https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&style=plastic&logoColor=white)
 
-![CI/CD](https://img.shields.io/badge/CI/CD-%23323330.svg?style=or-the-badge&logo=dev.to&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=plastic)
+![CI/CD](https://img.shields.io/badge/CI/CD-%23323330.svg?style=plastic&logo=dev.to&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-%2300A3E0.svg?style=plastic&logo=pytest&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github_actions-%232088FF.svg?style=plastic&logo=github-actions&logoColor=white)
 ![Code Climate](https://img.shields.io/badge/code_climate-%233776AB.svg?style=plastic&logo=code-climate&logoColor=white)
+![Codecov](https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=fff&style=plastic)
   
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&style=plastic&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&style=plastic&logoColor=white)
