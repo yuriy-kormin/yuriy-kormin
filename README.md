@@ -85,13 +85,13 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 39 hrs 9 mins
+Total Time: 40 hrs 35 mins
 
-Other              24 hrs          ███████████████▒░░░░░░░░░   61.30 %
-Python             13 hrs 39 mins  ████████▓░░░░░░░░░░░░░░░░   34.89 %
-Image (svg)        1 hr 10 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
-JSON               7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-textmate           2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Other              25 hrs 10 mins  ███████████████▓░░░░░░░░░   62.02 %
+Python             14 hrs 33 mins  █████████░░░░░░░░░░░░░░░░   35.85 %
+Image (svg)        21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+JSON               10 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+.env file          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
