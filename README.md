@@ -87,7 +87,7 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 ```txt
 Total Time: 43 hrs 30 mins
 
-Other                     26 hrs 56 mins  ███████████████▒░░░░░░░░░   61.94 %
+Other                     26 hrs 57 mins  ███████████████▒░░░░░░░░░   61.94 %
 Python                    9 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.46 %
 C#                        5 hrs 2 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
 Image (svg)               45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
