@@ -85,13 +85,13 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 33 hrs 57 mins
+Total Time: 24 hrs 28 mins
 
-Other                     21 hrs 13 mins  ███████████████▓░░░░░░░░░   62.48 %
-C#                        11 hrs          ████████░░░░░░░░░░░░░░░░░   32.42 %
-Markdown                  1 hr 2 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Docker                    15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-YAML                      8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Other                     17 hrs 1 min    █████████████████▒░░░░░░░   69.59 %
+C#                        6 hrs 39 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.22 %
+Markdown                  35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+XML                       7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+Text                      2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
 ```
 
 <!--END_SECTION:waka-->
