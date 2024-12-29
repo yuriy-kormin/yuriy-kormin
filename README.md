@@ -85,11 +85,11 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 9 hrs 14 mins
+Total Time: 6 hrs 49 mins
 
-Other      9 hrs 9 mins    ████████████████████████▒   97.65 %
-Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Python     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+Other      6 hrs 44 mins   ████████████████████████▒   96.84 %
+Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.98 %
+Python     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
