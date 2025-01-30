@@ -85,13 +85,13 @@ Tried myself in arduino / raspberry pi (IoT) for homemade.
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 44 hrs 38 mins
+Total Time: 41 hrs 58 mins
 
-Other              25 hrs 37 mins  ██████████████▒░░░░░░░░░░   57.42 %
-C#                 16 hrs 57 mins  █████████▒░░░░░░░░░░░░░░░   37.99 %
-Java               1 hr 33 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 %
-XML                8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
-Python             5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+Other            22 hrs 23 mins  █████████████▒░░░░░░░░░░░   53.35 %
+C#               18 hrs 34 mins  ███████████░░░░░░░░░░░░░░   44.26 %
+Java             35 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
+XML              8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
+Text             6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
