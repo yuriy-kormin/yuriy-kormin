@@ -1,23 +1,28 @@
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=yuriy-kormin.yuriy.kormin) -->
 ## VISITORS ![Visitor Count](https://profile-counter.glitch.me/yuriy-kormin/count.svg?label=visitors&style=plastic)
 
-Hello there! 
+## 👋 Hello there!
 
-I'm Yuriy, a passionate web developer with a knack for building innovative and efficient applications. 
+I'm **Yuriy Kormin**, a passionate backend developer with a strong focus on building innovative and high-performance applications.
 
-Currently, I working as a lead backend developer at a dynamic fintech startup.
+💻 I currently work as a **C# individual contributor** on an image-processing library team, focusing on low-level optimizations and performance tuning.
 
-<a href="https://github.com/yuriy-kormin/graphene_react">Tried myself</a> in React/Redux along with Bootstrap for UI design
+🧑‍💼 Previously, I was a **Lead Backend Developer** at a dynamic fintech startup, where I designed and scaled complex backend systems.
 
-<p>Living in Batumi, Georgia :georgia: seacost
-<p>
-Since <a href="https://ru.hexlet.io/u/tork">successfully completed</a> Python developer course at <a href ="https://ru.hexlet.io">Hexlet</a> <p>
+### 🚀 Tech Highlights
+- 🔧 Experienced in **C#**, **.NET**, and **Python**
+- 🌐 Built a [React + Redux UI](https://github.com/yuriy-kormin/graphene_react) using Bootstrap for frontend prototyping
+- 🛠️ Experimented with **Arduino** and **Raspberry Pi** for DIY IoT projects
 
-Tried myself in arduino / raspberry pi (IoT) for homemade.
-  
+### 📍 About Me
+- 🌍 Living in **Batumi, Georgia** 🇬🇪 — by the coast!
+- 🎓 Completed the [Python Developer course](https://ru.hexlet.io/u/tork) at [Hexlet](https://ru.hexlet.io)
 
-  
-🔭 Actively looking for a job opportunities <a href="https://github.com/yuriy-kormin/yuriy-kormin/blob/main/resume_Kormin_.pdf">resume</a>
+---
+
+Feel free to explore my repos and connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=plastic)](https://www.linkedin.com/in/yuriy-kormin-056ab590/)
 
   
 ## ʟᴀɴɢᴜᴀɢᴇꜱ ᴀɴᴅ ᴛᴏᴏʟꜱ
