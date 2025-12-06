@@ -90,13 +90,13 @@ Feel free to explore my repos and connect!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 32 hrs 55 mins
+Total Time: 29 hrs 32 mins
 
-C#              13 hrs 35 mins  ██████████▒░░░░░░░░░░░░░░   41.29 %
-Other           13 hrs 9 mins   ██████████░░░░░░░░░░░░░░░   39.94 %
-Rust            6 hrs           ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-Csproj          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 %
-XML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+C#              13 hrs 35 mins  ███████████▓░░░░░░░░░░░░░   46.03 %
+Other           9 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   33.05 %
+Rust            6 hrs           █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Csproj          6 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+XML             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
