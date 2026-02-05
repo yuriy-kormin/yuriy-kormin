@@ -92,11 +92,11 @@ Feel free to explore my repos and connect!
 ```txt
 Total Time: 39 hrs 30 mins
 
-Other           24 hrs 53 mins  ███████████████▓░░░░░░░░░   63.02 %
-C#              14 hrs 7 mins   █████████░░░░░░░░░░░░░░░░   35.75 %
-Rust            21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
-Csproj          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
-Solution File   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+Other           24 hrs 51 mins  ███████████████▓░░░░░░░░░   62.93 %
+C#              14 hrs 35 mins  █████████▒░░░░░░░░░░░░░░░   36.94 %
+Rust            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+JSON            1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+Csproj          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
