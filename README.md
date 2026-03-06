@@ -90,13 +90,9 @@ Feel free to explore my repos and connect!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 19 hrs 28 mins
+Total Time: 12 hrs 7 mins
 
-Other            16 hrs 32 mins        █████████████████████▒░░░   84.89 %
-Python           1 hr 47 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.18 %
-C#               24 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
-Makefile         21 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-TOML             10 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.93 %
+Other   12 hrs 7 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
