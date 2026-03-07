@@ -90,9 +90,9 @@ Feel free to explore my repos and connect!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 12 hrs 7 mins
+Total Time: 8 hrs 25 mins
 
-Other   12 hrs 7 mins         █████████████████████████   100.00 %
+Other   8 hrs 25 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
