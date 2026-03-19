@@ -90,13 +90,13 @@ Feel free to explore my repos and connect!
 <!--START_SECTION:waka-->
 
 ```txt
-Total Time: 34 hrs 38 mins
+Total Time: 34 hrs 14 mins
 
-Other                     19 hrs 36 mins        ██████████████░░░░░░░░░░░   56.60 %
-Python                    6 hrs 31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
-Kotlin                    1 hr 59 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-C#                        1 hr 46 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
-XML                       1 hr 18 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+Other                     17 hrs 47 mins        █████████████░░░░░░░░░░░░   51.97 %
+Python                    7 hrs 25 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.69 %
+Kotlin                    2 hrs 12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.46 %
+C#                        2 hrs 4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
+XML                       1 hr 18 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 %
 ```
 
 <!--END_SECTION:waka-->
