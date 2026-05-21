@@ -92,9 +92,9 @@ Feel free to explore my repos and connect!
 ```txt
 Total Time: 46 hrs 39 mins
 
-Other                     22 hrs 24 mins        ████████████░░░░░░░░░░░░░   48.01 %
-C#                        17 hrs 8 mins         █████████▒░░░░░░░░░░░░░░░   36.75 %
-Rust                      5 hrs 50 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
+Other                     22 hrs 19 mins        ████████████░░░░░░░░░░░░░   47.84 %
+C#                        17 hrs 12 mins        █████████▒░░░░░░░░░░░░░░░   36.88 %
+Rust                      5 hrs 51 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.55 %
 Python                    51 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 XML                       7 mins                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
 ```
